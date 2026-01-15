@@ -24,18 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shaojun Tang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor"
+  location         : "Richmond, VA"
+  employer         : "Virginia Commonwealth University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tangs3@vcu.edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://sph.vcu.edu/about/portfolio/details/tangs3/"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=lqkSfk0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
